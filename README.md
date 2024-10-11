@@ -1,4 +1,4 @@
-# Demo hoàn tất các chức năng cơ bản Lần 15 (3/1/2024).
+# Demo hoàn tất các chức năng cơ bản Lần 15 (3/2/2024).
 # WebApp Quản Lý Phòng Gym
 Use C# ASP.NET, SQL server.
 + Dự án bao gồm:
